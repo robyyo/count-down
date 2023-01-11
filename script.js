@@ -3,7 +3,7 @@ let textHours = document.querySelector("#hours");
 let textMinutes = document.querySelector("#minutes");
 let textSeconds = document.querySelector("#seconds");
 
-let tripDate = new Date("2021-12-15T00:00:00").getTime();
+let tripDate = new Date("2023-01-22T00:00:00").getTime();
 // let tripDate = new Date("2021-11-09T15:51:00").getTime();
 
 let x = setInterval(() => {
